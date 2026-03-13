@@ -1,12 +1,12 @@
 {
   "name": "xptouch",
-  "version": "0.0.87",
+  "version": "0.0.88",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "xptouch.web.0.0.87.bin",
+          "path": "xptouch.web.0.0.88.bin",
           "offset": 0
         }
       ]
